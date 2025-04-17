@@ -1,0 +1,3 @@
+Tested it on the lab machine
+Compiling throws warnings but the program still runs with ./double_calc
+I added input.txt to test but this can be modified.
